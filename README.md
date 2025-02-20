@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
-<h1 align="center"> Hi there! I'm a Platform Engineer & SRE with four years of experience specializing in multi-cloud environments and AI technologies. 🌐🤖 </h1>
+<h1 align="center"> Hi there! I'm a Platform Engineer & SRE with four years of experience in the healthcare and e-commerce industries, specializing in multi-cloud DevOps and AI technologies.🌐🤖 </h1>
 
-<h3 align="center">Platform & SRE Engineer focused on Multi-cloud cloud technologies & AI for efficiency.</h3>
+<h3 align="center"> Innovative Platform & SRE Engineer driving efficiency and innovation through Multi-cloud DevOps and AI </h3>
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdihakim-devops&label=Profile%20views&color=0e75b6&style=flat" alt="abdihakim-devops" /> </p>
