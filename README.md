@@ -1,5 +1,6 @@
 
-![Uploading DevOps.png…]()
+<img width="1436" alt="DevOps" src="https://github.com/user-attachments/assets/f3b341c1-660e-46fd-9f0b-dc1aaa9ace3d" />
+
 
 
 
