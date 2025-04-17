@@ -1,4 +1,8 @@
-![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
+
+![Uploading DevOps.png…]()
+
+
+
 <h1 align="center"> Hi there! I'm a Platform Engineer & SRE with four years of experience in the healthcare and e-commerce industries, specializing in multi-cloud DevOps and AI technologies.🌐🤖 </h1>
 
 <h3 align="center"> Innovative Platform & SRE Engineer driving efficiency and innovation through Multi-cloud DevOps and AI </h3>
