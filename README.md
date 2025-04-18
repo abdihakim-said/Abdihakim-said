@@ -16,7 +16,7 @@
 🔧 I enjoy automating processes, enhancing system reliability, and exploring innovative solutions to complex challenges. Let's connect and collaborate on exciting projects!
 
 
-- 📝 I regularly write articles on [https://medium.com/@abdihakimsaid1](https://medium.com/@abdihakimsaid1)
+- 📝 I regularly write articles on [https://medium.com/@said-devops](https://medium.com/@said-devops)
 
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
 
