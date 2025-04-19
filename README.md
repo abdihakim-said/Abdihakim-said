@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center"> Hi there! I'm a Platform Engineer & SRE with four years of experience in the healthcare and e-commerce industries, specializing in multi-cloud DevOps and AI technologies.🌐🤖 </h1>
+<h1 align="center"> Hi there! I'm a Platform Engineer & SRE with over four years of experience in the healthcare and e-commerce industries, specializing in multi-cloud DevOps and AI technologies.🌐🤖 </h1>
 
 <h3 align="center"> Innovative Platform & SRE Engineer driving efficiency and innovation through Multi-cloud DevOps and AI </h3>
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
@@ -27,7 +27,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/said-devops/](https://www.linkedin.com/in/said-devops)
 
 ### Blogs posts
-<a href="https://medium.com/@abdihakimsaid1" target="_blank">~Abdihakim Said~ On Medium</a> 
+<a href="https://medium.com/@said-devops" target="_blank">~Abdihakim Said~ On Medium</a> 
 
 
 
@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/said-devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/said-devops" height="30" width="40" /></a>
 
 
-<a href="https://medium.com/@abdihakimsaid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aman.pathak_51134" height="30" width="40" /></a>
+<a href="https://medium.com/@said-devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aman.pathak_51134" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
