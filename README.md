@@ -1,16 +1,3 @@
-
-<img width="1436" alt="DevOps" src="https://github.com/user-attachments/assets/f3b341c1-660e-46fd-9f0b-dc1aaa9ace3d" />
-
-
-
-
-<h1 align="center"> Hi there! I'm a Platform Engineer & SRE with over four years of experience in the healthcare and e-commerce industries, specializing in multi-cloud DevOps and AI technologies.🌐🤖 </h1>
-
-<h3 align="center"> Innovative Platform & SRE Engineer driving efficiency and innovation through Multi-cloud DevOps and AI </h3>
-<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdihakim-devops&label=Profile%20views&color=0e75b6&style=flat" alt="abdihakim-devops" /> </p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdihakim+Said+%F0%9F%91%8B;Senior+DevOps+Engineer;Cloud+Architect;Infrastructure+Automation+Expert" alt="Typing SVG" />
 </div>
