@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdihakim+Said+%F0%9F%91%8B;Senior+DevOps+Engineer;Cloud+Architect;Infrastructure+Automation+Expert" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+<img width="1436" alt="DevOps" src="https://github.com/user-attachments/assets/f3b341c1-660e-46fd-9f0b-dc1aaa9ace3d" />
 
 ## 🚀 Senior DevOps Engineer | Cloud Architect | Infrastructure Automation Expert
 
@@ -20,45 +18,22 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
+<h3 align="center"> Innovative Platform & SRE Engineer driving efficiency and innovation through Multi-cloud DevOps and AI </h3>
+
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdihakim-said&label=Profile%20views&color=0e75b6&style=flat" alt="abdihakim-said" /> </p>
+
 ### 🎯 What I Do
 
-<table>
-<tr>
-<td width="50%">
-
-**🏗️ Cloud Architecture**
-- Design multi-cloud solutions (AWS, Azure, GCP)
-- Serverless & microservices architecture
-- High availability & disaster recovery
-
-**⚙️ Infrastructure as Code**
-- Terraform & CloudFormation expertise
-- Automated provisioning & scaling
-- GitOps workflows
-
-</td>
-<td width="50%">
-
-**🔒 DevSecOps Leadership**
-- CI/CD pipeline automation
-- Security scanning & compliance
-- Container orchestration
-
-**📊 Observability & Monitoring**
-- Full-stack monitoring solutions
-- Distributed tracing & logging
-- Performance optimization
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+- 🔭 🇬🇧 **Based in London, UK** - Passionate about building scalable, secure, and efficient systems
+- 🏗️ **Cloud Architecture** - Design multi-cloud solutions (AWS, Azure, GCP) with high availability
+- ⚙️ **Infrastructure as Code** - Terraform & CloudFormation expertise with automated provisioning
+- 🔒 **DevSecOps Leadership** - CI/CD pipeline automation, security scanning & compliance
+- 📊 **Observability & Monitoring** - Full-stack monitoring with EFK, Prometheus, Grafana, and Jaeger
+- 🤖 **AI Integration** - Implementing AI-driven solutions for business transformation
 
 ### 💼 Current Focus
-
 ```typescript
 const abdihakimSaid = {
   role: "Senior DevOps Engineer",
@@ -222,34 +197,14 @@ const abdihakimSaid = {
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284125-5c4b9c8d-8b1e-4b1a-9b1a-1b1a1b1a1b1a.gif" width="100">
-</div>
+### 📝 I regularly write articles on Medium
+<a href="https://medium.com/@said-devops" target="_blank">~Abdihakim Said~ On Medium</a> 
 
-## 📝 Technical Expertise
+- 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284111-3d83a2a6-4c7e-4b1a-9b1a-1b1a1b1a1b1a.gif" width="400">
-</div>
+- 📫 How to reach me **abdihakimsaid1@gmail.com**
 
-### 🔍 Observability & Monitoring
-- **📊 Metrics**: Prometheus + Grafana for real-time dashboards and alerting
-- **📝 Logging**: EFK stack (Elasticsearch, Fluentd, Kibana) for centralized log management  
-- **🔍 Tracing**: Jaeger for distributed tracing and performance optimization
-- **☁️ Cloud Monitoring**: CloudWatch, Azure Monitor, Google Cloud Operations
-- **⚡ APM**: Application performance monitoring and SLA tracking
-
-### 🏗️ Cloud Architecture Patterns
-- **🌐 Multi-cloud strategy** and vendor management
-- **⚡ Serverless computing** and event-driven architecture
-- **🔧 Microservices decomposition** and containerization
-- **🛡️ High availability** and disaster recovery planning
-
-### 🚀 DevOps Practices
-- **🔄 GitOps workflows** and infrastructure automation
-- **🔵 Blue-green and canary** deployment strategies
-- **🌪️ Chaos engineering** and reliability testing
-- **🔐 Security scanning** and compliance automation
+- ⚡ Fun fact **I am a Liverpool Fan** ⚽
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284126-7c4b9c8d-8b1e-4b1a-9b1a-1b1a1b1a1b1a.gif" width="100">
@@ -267,10 +222,13 @@ const abdihakimSaid = {
   <a href="https://abdihakimsaid.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:abdihakim.said@example.com">
+  <a href="mailto:abdihakimsaid1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
