@@ -1,8 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0077B5&height=250&section=header&text=Abdihakim%20Said&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Senior%20SRE%20%26%20DevOps%20Engineer%20|%20London&descAlignY=55&descSize=18)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=1100&lines=Senior+Site+Reliability+Engineer;DevOps+%26+Multi-Cloud+Specialist;AI-Driven+Infrastructure+Expert;Healthcare+%7C+FinTech+%7C+Retail+%7C+SaaS;99.9%25+Uptime+%7C+Scalable+Systems;Open+to+Senior+Opportunities)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Abdihakim+Said+%F0%9F%91%8B;Senior+Site+Reliability+Engineer;DevOps+%26+Multi-Cloud+Specialist;AI-Driven+Infrastructure+Expert;Building+Scalable+Systems+%F0%9F%9A%80;99.9%25+Uptime+%7C+50M%2B+Users+Served" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 
@@ -361,12 +359,6 @@ Automation:
 </td>
 </tr>
 </table>
-
-### 📚 **Recent Articles**
-- **"Building Resilient E-commerce: Handling Black Friday Traffic"** - DevOps.com
-- **"Healthcare SRE: Maintaining 99.9% Uptime for Patient Systems"** - SRE Weekly
-- **"AI-Powered Monitoring: Reducing Alert Fatigue by 80%"** - CNCF Blog
-- **"Multi-Cloud Kubernetes: Lessons from Production"** - Kubernetes Blog
 
 </div>
 
