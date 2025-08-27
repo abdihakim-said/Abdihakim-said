@@ -1,4 +1,11 @@
 <div align="center">
+<h1>🚀 Abdihakim Said</h1>
+<h3>Senior SRE & Multi-Cloud AI Integration Specialist</h3>
+</div>
+
+
+
+<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Abdihakim%20Said&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Senior%20SRE%20%26%20Multi-Cloud%20AI%20Integration%20Specialist&descAlignY=55&descSize=18)
 
