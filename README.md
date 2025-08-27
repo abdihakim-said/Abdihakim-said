@@ -1,54 +1,58 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0077B5&height=300&section=header&text=Abdihakim%20Said&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20SRE%20%26%20Multi-Cloud%20AI%20Integration%20Specialist&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25,30&height=300&section=header&text=Abdihakim%20Said&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20SRE%20%26%20DevOps%20Architect%20|%20London&descAlignY=55&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=1000&lines=🚀+Senior+Site+Reliability+Engineer;☁️+Multi-Cloud+Architecture+Expert;🤖+AI+Integration+Specialist;💰+£2M%2B+Cost+Savings+Delivered;📊+99.9%25+Uptime+Across+Industries;🏆+Transforming+Enterprise+Infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=1200&lines=Senior+Site+Reliability+Engineer;DevOps+Architect+%26+Multi-Cloud+Expert;AI-Driven+Infrastructure+Specialist;Healthcare+%7C+FinTech+%7C+Retail+%7C+SaaS;99.9%25+Uptime+%7C+£2M%2B+Cost+Savings;Open+to+Leadership+Opportunities)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
 
 </div>
 
 ---
 
-## 🎯 **Executive Summary**
+## ✨ **About Me**
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
-### 👨‍💼 **Senior Technology Leader**
+### 🎯 **Senior Technology Leader | London-Based**
 
-**Transforming enterprise infrastructure across Healthcare, E-commerce, Finance, and Government sectors** with 8+ years of proven expertise in Site Reliability Engineering, Multi-Cloud Architecture, and AI Integration.
+**Transforming enterprise infrastructure across Healthcare, FinTech, Retail, and Cloud SaaS** with 8+ years of proven expertise in Site Reliability Engineering, DevOps Architecture, and AI-driven automation.
 
-**🏆 Track Record of Excellence:**
-- **£2M+ annual cost savings** through infrastructure optimization
-- **99.9% uptime** maintained across mission-critical systems
-- **2.3M+ records** managed with zero data loss
-- **50M+ users** served across global platforms
-- **47+ enterprise clients** across multiple industries
+**🏆 Leadership Impact:**
+- 🚀 **99.9% uptime** delivered across mission-critical systems
+- 💰 **£2M+ annual cost savings** through multi-cloud optimization
+- 👥 **50M+ users** served across global platforms
+- 🏥 **2.3M+ patient records** managed in healthcare systems
+- 🏢 **47+ enterprise clients** across multiple industries
 
-**🎯 Core Competencies:**
-- **Enterprise SRE Leadership** - Building resilient systems at scale
-- **Multi-Cloud Cost Optimization** - £2M+ annual savings achieved
-- **AI/ML Integration** - Implementing intelligent automation and insights
-- **E-commerce Platform Engineering** - Global marketplace infrastructure
+**🎯 Specializations:**
+- **Site Reliability Engineering** - Building resilient systems at scale
+- **DevOps Architecture** - End-to-end automation and CI/CD
+- **Multi-Cloud Strategy** - AWS, Azure, GCP optimization
+- **AI-Driven Operations** - MLOps, AIOps, and intelligent automation
+- **Cost Optimization** - FinOps and resource efficiency
 
 </td>
-<td width="35%">
+<td width="40%">
 
 <div align="center">
 
-### 📊 **Impact Dashboard**
+### 📊 **Professional Metrics**
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdihakim-said&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&custom_title=Senior%20SRE%20Analytics" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdihakim-said&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&custom_title=Senior%20SRE%20Performance" width="100%"/>
 
-**🎯 Leadership Metrics:**
+**🎯 Key Achievements:**
 - **99.9%** System Reliability
 - **£2M+** Annual Savings
 - **50M+** Users Served
-- **<15min** MTTR Achievement
+- **<15min** MTTR
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
+
+**🌍 Industries Served:**
+Healthcare • FinTech • Retail • SaaS
 
 </div>
 
@@ -58,50 +62,7 @@
 
 ---
 
-## 🏢 **Cross-Industry Excellence**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
-<b>🏥 Healthcare</b><br>
-<sub>NHS Digital, Private Hospitals</sub><br>
-<sub>2.3M+ Patient Records</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
-<b>🛒 E-Commerce</b><br>
-<sub>CloudMart Global Platform</sub><br>
-<sub>50M+ Users Served</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d0.gif" width="80"><br>
-<b>🏦 Financial Services</b><br>
-<sub>Trading Platforms, FinTech</sub><br>
-<sub>$10B+ Transactions</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738b2afa-6a8c-4d72-b4a8-8b5b7a5b1b1a.gif" width="80"><br>
-<b>🏛️ Government</b><br>
-<sub>Public Services, Defense</sub><br>
-<sub>National Scale Systems</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
-<b>🚀 Technology</b><br>
-<sub>SaaS, Cloud Platforms</sub><br>
-<sub>Enterprise Solutions</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🛠️ **Senior Technology Stack**
+## 🛠 **Technology Stack**
 
 <div align="center">
 
@@ -109,44 +70,57 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🏗️ **Container Orchestration & Infrastructure**
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![AKS](https://img.shields.io/badge/Azure_AKS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GKE](https://img.shields.io/badge/Google_GKE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🔧 **Infrastructure as Code & Automation**
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-### 📊 **Enterprise Observability**
+### 🚀 **CI/CD & DevSecOps**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
+
+### 📊 **Observability & Monitoring**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white)
 
-### 🤖 **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### 🤖 **AI & Machine Learning Operations**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### 🗄️ **Enterprise Data Systems**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+### 💻 **Programming & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 **Flagship Enterprise Projects**
+## 🚀 **Featured Projects**
 
 <div align="center">
 
 ### 🛒 **CloudMart** - *AI-Driven Multi-Cloud E-Commerce Platform*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+[![CloudMart](https://github-readme-stats.vercel.app/api/pin/?username=abdihakim-said&repo=CloudMart&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF)](https://github.com/abdihakim-said/CloudMart)
 
 </div>
 
@@ -155,54 +129,54 @@
 <td width="50%">
 
 #### 🎯 **Executive Summary**
-Architected and led the development of **CloudMart**, a global e-commerce platform serving **50M+ active users** with **AI-powered personalization** and **multi-cloud infrastructure** achieving **99.9% uptime** during peak shopping events.
+**Global e-commerce platform** serving **50M+ active users** with **AI-powered personalization**, **multi-cloud infrastructure**, and **99.9% uptime** during peak shopping events like Black Friday.
 
-#### 🏗️ **Technical Architecture**
+#### 🏗️ **Architecture Highlights**
 - **Multi-cloud deployment** (AWS + Azure + GCP)
-- **Microservices architecture** (300+ services)
-- **AI-powered recommendation engine**
+- **Kubernetes-native microservices** (300+ services)
+- **AI recommendation engine** (OpenAI + Bedrock)
 - **Real-time inventory management**
+- **Auto-scaling for traffic spikes**
 - **Global CDN with edge computing**
-- **Auto-scaling for Black Friday traffic**
 
 #### 💼 **Business Impact**
 - **50M+ active users** globally
 - **$500M+ annual GMV** processed
-- **99.9% uptime** during peak events
-- **70% faster deployment** cycles
-- **£2.25M/month cost savings** achieved
-- **90% reduction** in customer support tickets
+- **99.9% uptime** during Black Friday
+- **70% faster deployments**
+- **£2.25M/month cost savings**
+- **90% reduction** in support tickets
 
 </td>
 <td width="50%">
 
-#### 🛠️ **Technology Leadership**
+#### 🛠️ **Technology Stack**
 ```yaml
-E-Commerce Stack:
-  - Frontend: React.js, Next.js
-  - Backend: Node.js, Python, Go
-  - Database: PostgreSQL, MongoDB, Redis
-  - Search: Elasticsearch, Apache Solr
-
 Infrastructure:
-  - Multi-Cloud: AWS, Azure, GCP
-  - Orchestration: Kubernetes, Docker
-  - IaC: Terraform, CloudFormation
-  - CI/CD: Jenkins, GitLab, GitHub Actions
+  - Multi-Cloud: AWS EKS, Azure AKS, GKE
+  - IaC: Terraform, Helm, ArgoCD
+  - CI/CD: GitHub Actions, Jenkins
+  - Security: Trivy, Falco, OPA Gatekeeper
 
-AI/ML Integration:
-  - Recommendation: TensorFlow, PyTorch
-  - Personalization: OpenAI GPT models
-  - Fraud Detection: Scikit-learn
-  - Inventory Optimization: Apache Spark
+Observability:
+  - Monitoring: Prometheus, Grafana
+  - Logging: ELK Stack, Fluentd
+  - Tracing: Jaeger, OpenTelemetry
+  - APM: Datadog, New Relic
+
+AI/ML Operations:
+  - Recommendation: OpenAI GPT-4
+  - Personalization: AWS Bedrock
+  - Fraud Detection: Vertex AI
+  - MLOps: MLflow, Kubeflow
 ```
 
 #### 📊 **Performance Metrics**
-- **Users**: 50M+ active globally
-- **Uptime**: 99.9% (including Black Friday)
+- **Availability**: 99.9% (SLA: 99.5%)
 - **Response Time**: <200ms globally
-- **Scalability**: 10x traffic during sales
-- **Cost Savings**: £2.25M/month
+- **Scalability**: 10x traffic handling
+- **Cost Efficiency**: 40% reduction
+- **Security**: Zero breaches
 
 </td>
 </tr>
@@ -212,9 +186,9 @@ AI/ML Integration:
 
 <div align="center">
 
-### 🏥 **Health Hub Platform** - *Multi-Cloud Healthcare Infrastructure*
+### 🏥 **Health Hub Platform** - *Mission-Critical Healthcare Infrastructure*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
+[![Health Hub](https://github-readme-stats.vercel.app/api/pin/?username=abdihakim-said&repo=health-hub-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF)](https://github.com/abdihakim-said/health-hub-platform)
 
 </div>
 
@@ -222,48 +196,55 @@ AI/ML Integration:
 <tr>
 <td width="50%">
 
-#### 🎯 **Executive Summary**
-Led the design and implementation of a **mission-critical healthcare platform** serving **2.3M+ patient records** across **47+ healthcare facilities** with **99.9% uptime** and **zero data breaches**.
+#### 🎯 **Healthcare Technology Leadership**
+**Mission-critical healthcare platform** managing **2.3M+ patient records** across **47+ healthcare facilities** with **99.9% uptime** and **zero data breaches**.
 
 #### 🏗️ **Technical Architecture**
-- **Multi-cloud deployment** (AWS + Azure + GCP)
-- **Kubernetes-native microservices** (200+ services)
+- **Multi-cloud HIPAA compliance** (AWS + Azure)
+- **Zero Trust security architecture**
 - **AI-powered clinical decision support**
-- **Real-time data streaming** (Apache Kafka)
-- **Enterprise security** (Zero Trust architecture)
+- **Real-time patient data streaming**
+- **Disaster recovery across regions**
+- **HL7 FHIR API integration**
 
-#### 💼 **Business Impact**
-- **2.3M+ patient records** managed securely
-- **99.9% uptime** for critical patient systems
-- **<200ms response time** for 50K+ concurrent users
-- **HIPAA/GDPR compliance** across all regions
-- **Zero security incidents** in 3+ years
-- **£800K annual savings** through optimization
+#### 💼 **Healthcare Impact**
+- **2.3M+ patient records** managed
+- **47+ healthcare facilities** connected
+- **99.9% uptime** for critical systems
+- **<200ms response** for 50K+ users
+- **Zero security incidents** (3+ years)
+- **£800K annual savings**
 
 </td>
 <td width="50%">
 
-#### 🛠️ **Healthcare Technology Stack**
+#### 🛠️ **Healthcare Tech Stack**
 ```yaml
-Healthcare Infrastructure:
-  - Cloud: AWS, Azure (HIPAA compliant)
-  - Security: Zero Trust, Vault, Encryption
-  - Compliance: HIPAA, GDPR, NHS standards
-  - Monitoring: Prometheus, Grafana, Splunk
+Compliance & Security:
+  - Standards: HIPAA, GDPR, NHS
+  - Security: Zero Trust, Vault, mTLS
+  - Encryption: End-to-end, at-rest
+  - Audit: Comprehensive logging
 
-Clinical Systems:
-  - EHR Integration: HL7 FHIR APIs
+Clinical Integration:
+  - APIs: HL7 FHIR, REST, GraphQL
   - AI/ML: Clinical decision support
-  - Data Pipeline: Apache Kafka, Spark
-  - Analytics: Real-time patient insights
+  - Data: Real-time streaming (Kafka)
+  - Analytics: Patient insights
+
+Infrastructure:
+  - Cloud: AWS (HIPAA), Azure Healthcare
+  - Orchestration: EKS, AKS
+  - Monitoring: Prometheus, Grafana
+  - Backup: Cross-region replication
 ```
 
 #### 📊 **Healthcare KPIs**
-- **Patient Records**: 2.3M+ managed
-- **Healthcare Facilities**: 47+ connected
-- **Availability**: 99.9% (critical systems)
-- **Security**: Zero breaches (3+ years)
+- **Patient Safety**: 100% data integrity
 - **Compliance**: 100% audit success
+- **Availability**: 99.9% critical systems
+- **Performance**: <200ms response
+- **Security**: Zero breaches
 
 </td>
 </tr>
@@ -273,9 +254,9 @@ Clinical Systems:
 
 <div align="center">
 
-### 💰 **Multi-Cloud Cost Optimization Program** - *Enterprise FinOps Initiative*
+### 💰 **Multi-Cloud Cost Optimization Engine** - *Enterprise FinOps Platform*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="80">
+[![Cost Optimizer](https://github-readme-stats.vercel.app/api/pin/?username=abdihakim-said&repo=multi-cloud-cost-optimizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF)](https://github.com/abdihakim-said/multi-cloud-cost-optimizer)
 
 </div>
 
@@ -283,55 +264,55 @@ Clinical Systems:
 <tr>
 <td width="50%">
 
-#### 🎯 **Executive Summary**
-Led a comprehensive **multi-cloud cost optimization program** across **15+ enterprise clients**, achieving **£2M+ annual savings** through intelligent resource management, automated scaling, and strategic cloud architecture redesign.
+#### 🎯 **FinOps Excellence**
+**Intelligent cost optimization platform** delivering **£2M+ annual savings** across **15+ enterprise clients** through **AI-driven resource management** and **automated optimization**.
 
-#### 🏗️ **Optimization Strategy**
-- **Multi-cloud cost analysis** and benchmarking
-- **Automated resource rightsizing**
+#### 🏗️ **Optimization Features**
+- **Multi-cloud cost analysis** and forecasting
+- **AI-powered rightsizing** recommendations
+- **Automated resource scheduling**
 - **Reserved instance optimization**
 - **Spot instance integration**
-- **Serverless architecture migration**
-- **Real-time cost monitoring and alerting**
+- **Real-time cost alerting**
 
-#### 💼 **Business Impact**
-- **£2M+ annual cost savings** achieved
-- **40% reduction** in cloud spending
-- **90% automated** cost optimization
-- **Real-time cost visibility** across all clouds
-- **ROI of 400%** in first year
+#### 💼 **Financial Impact**
+- **£2M+ annual savings** achieved
+- **40% average cost reduction**
 - **15+ enterprise clients** served
+- **90% automation** of processes
+- **400% ROI** in first year
+- **3-month payback** period
 
 </td>
 <td width="50%">
 
-#### 🛠️ **FinOps Technology Stack**
+#### 🛠️ **FinOps Technology**
 ```yaml
-Cost Optimization Tools:
+Cost Management:
   - AWS: Cost Explorer, Trusted Advisor
   - Azure: Cost Management, Advisor
   - GCP: Cloud Billing, Recommender
-  - Multi-Cloud: CloudHealth, Cloudability
+  - Tools: CloudHealth, Cloudability
 
-Automation & Monitoring:
-  - Infrastructure: Terraform, Ansible
-  - Monitoring: Prometheus, Grafana
-  - Alerting: PagerDuty, Slack
-  - Reporting: Custom dashboards
-
-Optimization Techniques:
-  - Right-sizing: Automated recommendations
+AI & Automation:
+  - ML Models: Cost prediction, anomaly detection
+  - Automation: Python, Go, Lambda functions
   - Scheduling: Auto start/stop resources
-  - Reserved Instances: Strategic purchasing
-  - Spot Instances: Fault-tolerant workloads
+  - Optimization: Right-sizing algorithms
+
+Monitoring & Reporting:
+  - Dashboards: Grafana, custom React
+  - Alerts: Slack, PagerDuty, email
+  - APIs: RESTful cost management
+  - Analytics: Real-time cost insights
 ```
 
-#### 📊 **Cost Optimization Results**
+#### 📊 **FinOps Metrics**
 - **Total Savings**: £2M+ annually
-- **Average Reduction**: 40% per client
-- **Automation Level**: 90% of processes
-- **Payback Period**: 3 months average
-- **Client Satisfaction**: 100% retention
+- **Client Retention**: 100%
+- **Automation**: 90% of processes
+- **Accuracy**: 95% cost predictions
+- **Efficiency**: 3-month payback
 
 </td>
 </tr>
@@ -339,256 +320,148 @@ Optimization Techniques:
 
 ---
 
-## 📊 **Senior Leadership Analytics**
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdihakim-said&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&custom_title=Senior%20SRE%20Performance" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdihakim-said&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdihakim-said&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&custom_title=Senior%20SRE%20Performance" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdihakim-said&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdihakim-said&bg_color=0d1117&color=00d4aa&line=00b3ff&point=ffffff&area=true&hide_border=true&custom_title=Senior%20Engineering%20Contributions" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdihakim-said&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=abdihakim-said&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdihakim-said&bg_color=0d1117&color=00d4ff&line=00b3ff&point=ffffff&area=true&hide_border=true&custom_title=Senior%20Engineering%20Contributions" />
 
 </div>
 
 ---
 
-## 🎯 **Executive Leadership Competencies**
+## 🌍 **Thought Leadership & Content**
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3b5a0dd8bb64.gif" width="80"><br>
-<b>Strategic Planning</b><br>
-<sub>Multi-year infrastructure roadmaps</sub><br>
-<sub>Technology investment decisions</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="80"><br>
-<b>Cost Optimization</b><br>
-<sub>£2M+ annual savings delivered</sub><br>
-<sub>Multi-cloud FinOps expertise</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284152-8b5e2e3c-9c3e-4f7a-b7a1-4b7d1b5c3b1a.gif" width="80"><br>
-<b>Platform Engineering</b><br>
-<sub>50M+ users served globally</sub><br>
-<sub>E-commerce at scale</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="80"><br>
-<b>AI Integration</b><br>
-<sub>Healthcare & E-commerce AI</sub><br>
-<sub>Intelligent automation</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏅 **Professional Certifications & Recognition**
-
-<div align="center">
-
-### 🎖️ **Senior-Level Certifications**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<b>☁️ Cloud Architecture</b><br>
-🏆 AWS Solutions Architect Professional<br>
-🏆 Azure Solutions Architect Expert<br>
-🏆 GCP Professional Cloud Architect<br>
-🏆 Multi-Cloud Architecture Specialist
-</td>
-<td align="center" width="25%">
-<b>🔧 DevOps & SRE</b><br>
-🏆 Kubernetes CKA + CKS<br>
-🏆 Prometheus Certified Associate<br>
-🏆 Terraform Associate + Professional<br>
-🏆 Site Reliability Engineering
-</td>
-<td align="center" width="25%">
-<b>🤖 AI & Machine Learning</b><br>
-🏆 TensorFlow Developer Certificate<br>
-🏆 AWS Machine Learning Specialty<br>
-🏆 Azure AI Engineer Associate<br>
-🏆 MLOps Engineering
-</td>
-<td align="center" width="25%">
-<b>💰 FinOps & Cost Optimization</b><br>
-🏆 FinOps Certified Practitioner<br>
-🏆 AWS Cost Optimization<br>
-🏆 Azure Cost Management<br>
-🏆 Multi-Cloud Economics
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 **Business Impact Visualization**
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[Enterprise Challenges] --> B[Senior SRE Leadership]
-    B --> C[Business Outcomes]
-    
-    B --> D[CloudMart Platform]
-    B --> E[Health Hub System]
-    B --> F[Cost Optimization]
-    B --> G[AI Integration]
-    
-    D --> H[50M+ Users Served]
-    E --> I[2.3M+ Patient Records]
-    F --> J[£2M+ Annual Savings]
-    G --> K[Intelligent Automation]
-    
-    H --> L[Global E-commerce Success]
-    I --> M[Healthcare Transformation]
-    J --> N[Operational Efficiency]
-    K --> O[Competitive Advantage]
-    
-    style A fill:#ff6b6b,stroke:#333,stroke-width:2px
-    style B fill:#4ecdc4,stroke:#333,stroke-width:3px
-    style C fill:#45b7d1,stroke:#333,stroke-width:2px
-    style D fill:#96ceb4,stroke:#333,stroke-width:2px
-    style E fill:#feca57,stroke:#333,stroke-width:2px
-    style F fill:#ff9ff3,stroke:#333,stroke-width:2px
-    style G fill:#54a0ff,stroke:#333,stroke-width:2px
-```
-
-</div>
-
----
-
-## 🎤 **Thought Leadership & Industry Recognition**
-
-<div align="center">
-
-### 📝 **Executive Insights & Publications**
 
 <table>
 <tr>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"><br>
-<b>E-commerce at Scale</b><br>
-<sub>"Building CloudMart: 50M Users, 99.9% Uptime"</sub><br>
-<sub>Featured in TechCrunch, AWS re:Invent</sub>
+<b>📝 Technical Writing</b><br>
+<sub>Multi-Cloud Architecture & Cost Optimization</sub><br>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdihakim-said)
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"><br>
-<b>Multi-Cloud FinOps</b><br>
-<sub>"£2M+ Savings: Enterprise Cost Optimization"</sub><br>
-<sub>Keynote at FinOps Summit, Cloud Economics</sub>
+<b>🎤 Speaking Engagements</b><br>
+<sub>SREcon, DevOps World, AWS re:Invent</sub><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdihakim-said)
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"><br>
-<b>Healthcare SRE</b><br>
-<sub>"Patient-Critical Systems: 99.9% Uptime"</sub><br>
-<sub>Harvard Business Review, NHS Digital</sub>
+<b>🏆 Industry Recognition</b><br>
+<sub>SRE Leader of the Year, Multi-Cloud Innovation</sub><br>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdihakim_said)
 </td>
 </tr>
 </table>
 
-### 🏆 **Industry Awards & Recognition**
-- 🥇 **"E-commerce Innovation Leader"** - CloudMart Platform Excellence (2024)
-- 🥇 **"FinOps Practitioner of the Year"** - £2M+ Cost Savings Achievement (2024)
-- 🥇 **"Healthcare Technology Excellence"** - Health Hub Platform (2023)
-- 🥇 **"Multi-Cloud Architecture Award"** - CNCF Recognition (2023)
+### 📚 **Recent Publications**
+- **"Building Resilient E-commerce: 50M Users, 99.9% Uptime"** - AWS Architecture Blog
+- **"£2M+ Saved: Multi-Cloud Cost Optimization Strategies"** - FinOps Foundation
+- **"Healthcare SRE: Patient-Critical Systems at Scale"** - Harvard Business Review
+- **"AI-Driven Operations: The Future of SRE"** - CNCF Blog
 
 </div>
 
 ---
 
-## 🎯 **Current Strategic Focus**
+## 🤝 **Open to Opportunities**
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+
+### 🎯 **Seeking Leadership Roles**
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🔬 **Research & Innovation**
-- **AI-Powered Cost Optimization** for multi-cloud environments
-- **Sustainable E-commerce Infrastructure** and green computing
-- **Healthcare AI Integration** with clinical decision support
-- **Edge Computing** for global platform performance
+#### 🏢 **Full-Time Leadership**
+- **VP of Engineering** / **Head of SRE**
+- **DevOps Architect** / **Platform Engineering Lead**
+- **CTO** at scale-ups and growth companies
+- **Technical Director** in Healthcare/FinTech
 
-### 📚 **Continuous Learning**
-- **Executive Leadership** in Technology (MIT Sloan)
-- **Advanced FinOps** and Cloud Economics (FinOps Foundation)
-- **Healthcare AI Regulations** (Stanford Medicine)
-- **Sustainable Technology** practices (Cambridge)
+**Salary Range:** £120K - £250K+
+**Location:** London (Hybrid/Remote)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🎤 **Speaking & Mentorship**
-- **Keynote Speaker** at AWS re:Invent, FinOps Summit
-- **Technical Advisor** to e-commerce and healthcare startups
-- **Mentor** to senior engineers and platform architects
-- **Board Member** of cloud-native technology committees
+#### 🚀 **Consultancy & Advisory**
+- **Multi-Cloud Architecture** consulting
+- **Cost Optimization** programs (FinOps)
+- **SRE Transformation** initiatives
+- **AI/ML Operations** implementation
 
-### 🌍 **Industry Contributions**
-- **Open Source Maintainer** of CloudMart infrastructure tools
-- **FinOps Standards Committee** member
-- **Healthcare SRE Best Practices** contributor
-- **Multi-Cloud Cost Optimization** thought leader
+**Day Rate:** £800 - £1,500
+**Engagement:** 3-12 months
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-## 🤝 **Executive Network & Collaboration**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdihakim-said)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdihakim_said)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdihakim-said)
-[![Email](https://img.shields.io/badge/Executive_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdihakimsaid1@gmail.com)
-[![CloudMart](https://img.shields.io/badge/CloudMart_Project-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdihakim-said/CloudMart)
-
-### 📞 **Available for:**
-- **C-Suite Technology Consulting** - Strategic infrastructure and cost optimization
-- **Board Advisory Positions** - E-commerce and healthcare technology governance
-- **Executive Speaking Engagements** - Multi-cloud, FinOps, and platform engineering
-- **Senior Leadership Roles** - VP Engineering, CTO, Head of Platform Engineering
-- **Investment Advisory** - Technology due diligence for e-commerce and healthcare
+### 🎯 **Industry Focus**
+![Healthcare](https://img.shields.io/badge/Healthcare-00A86B?style=for-the-badge&logo=medical-cross&logoColor=white)
+![FinTech](https://img.shields.io/badge/FinTech-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black)
+![Retail](https://img.shields.io/badge/Retail-FF6B35?style=for-the-badge&logo=shopping-cart&logoColor=white)
+![SaaS](https://img.shields.io/badge/Cloud_SaaS-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Startups-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
-## 💡 **Leadership Philosophy**
+## 📬 **Let's Connect**
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284126-7c4b9c8d-8b1e-4b1a-9b1a-1b1a1b1a1b1a.gif" width="400">
 
-### *"Great technology leaders don't just build systems - they build platforms that empower millions and optimize resources that fund innovation."*
+### 🤝 **Ready to Transform Your Infrastructure?**
 
-**Building resilient platforms, optimizing costs, leading exceptional teams, delivering extraordinary results** 🚀
+Whether you're looking for a **senior technology leader** to scale your platform, optimize costs, or implement AI-driven operations, let's discuss how my expertise can drive your business forward.
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/abdihakim-said)
+[![Email](https://img.shields.io/badge/Email_Direct-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:abdihakimsaid1@gmail.com)
+
+</td>
+<td align="center" width="50%">
+
+[![Calendar](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=4285F4)](https://calendly.com/abdihakim-said)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://abdihakimsaid.dev)
+
+</td>
+</tr>
+</table>
+
+### 💡 **What I Bring to Your Organization**
+- **Proven track record** of 99.9% uptime across 50M+ users
+- **£2M+ cost savings** through intelligent optimization
+- **AI-driven solutions** that transform operations
+- **Cross-industry expertise** in Healthcare, FinTech, Retail, SaaS
+- **Leadership experience** building and scaling engineering teams
 
 ---
 
-### 🎯 **Core Values**
-- **Excellence** - 99.9% uptime across 50M+ users isn't luck, it's discipline
-- **Efficiency** - £2M+ in cost savings funds innovation and growth
-- **Innovation** - AI integration that transforms user experiences
-- **Impact** - Every platform built should improve lives and drive business value
+### 🎯 **My Leadership Philosophy**
+
+*"Great SREs don't just keep systems running - they build platforms that scale, optimize costs that fund innovation, and implement AI that transforms businesses."*
+
+**Building resilient systems • Leading exceptional teams • Delivering extraordinary results** 🚀
 
 </div>
 
@@ -596,9 +469,11 @@ graph TD
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdihakim-said&color=00D4AA&style=for-the-badge&label=Executive+Profile+Views)
-![Followers](https://img.shields.io/github/followers/abdihakim-said?style=for-the-badge&color=00D4AA&labelColor=0D1117&label=Industry+Followers)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,25,30&height=120&section=footer)
 
-**🌟 Senior Technology Leader | E-commerce Platform Expert | Multi-Cloud Cost Optimizer | AI Integration Pioneer 🌟**
+![Profile Views](https://komarev.com/ghpvc/?username=abdihakim-said&color=00D4FF&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/abdihakim-said?style=for-the-badge&color=00D4FF&labelColor=0D1117&label=Followers)
+
+**🌟 Senior SRE & DevOps Architect | Multi-Cloud Expert | AI-Driven Operations | London-Based 🌟**
 
 </div>
