@@ -117,7 +117,7 @@ Healthcare • FinTech • Retail • SaaS • Gaming
 
 ### 🛒 **CloudMart E-Commerce Platform** - *Scalable Multi-Cloud Infrastructure*
 
-[![CloudMart](https://github-readme-stats.vercel.app/api/pin/?username=abdihakim-said&repo=CloudMart&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF)](https://github.com/abdihakim-said/CloudMart)
+[![CloudMart](https://github-readme-stats.vercel.app/api/pin/?username=abdihakim-said&repo=cloudmart-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF)](https://github.com/abdihakim-said/cloudmart-project)
 
 </div>
 
@@ -183,9 +183,9 @@ Application Stack:
 
 <div align="center">
 
-### 🏥 **Health Hub Platform** - *Healthcare Infrastructure & Compliance*
+### 🏥 **HealthHub Enterprise Platform** - *Healthcare Infrastructure & Compliance*
 
-[![Health Hub](https://github-readme-stats.vercel.app/api/pin/?username=abdihakim-said&repo=health-hub-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF)](https://github.com/abdihakim-said/health-hub-platform)
+[![HealthHub](https://github-readme-stats.vercel.app/api/pin/?username=abdihakim-said&repo=healthhub-enterprise-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF)](https://github.com/abdihakim-said/healthhub-enterprise-platform)
 
 </div>
 
@@ -343,13 +343,13 @@ Automation:
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"><br>
 <b>📝 Technical Blogs</b><br>
 <sub>SRE Best Practices & Multi-Cloud</sub><br>
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdihakim-said)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@said-devops)
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"><br>
 <b>🎤 Tech Talks</b><br>
 <sub>Conference Speaking & Workshops</sub><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdihakim-said)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/said-devops/)
 </td>
 <td width="33%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"><br>
@@ -359,6 +359,12 @@ Automation:
 </td>
 </tr>
 </table>
+
+### 📚 **Recent Articles**
+- **"Building Resilient E-commerce: Handling Black Friday Traffic"** - DevOps.com
+- **"Healthcare SRE: Maintaining 99.9% Uptime for Patient Systems"** - SRE Weekly
+- **"AI-Powered Monitoring: Reducing Alert Fatigue by 80%"** - CNCF Blog
+- **"Multi-Cloud Kubernetes: Lessons from Production"** - Kubernetes Blog
 
 </div>
 
@@ -427,14 +433,14 @@ I'm passionate about building scalable, reliable infrastructure that supports mi
 <tr>
 <td align="center" width="50%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/abdihakim-said)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/said-devops/)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:abdihakimsaid1@gmail.com)
 
 </td>
 <td align="center" width="50%">
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://abdihakimsaid.dev)
-[![Schedule](https://img.shields.io/badge/Schedule_Chat-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=4285F4)](https://calendly.com/abdihakim-said)
+[![Medium](https://img.shields.io/badge/Read_My_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E)](https://medium.com/@said-devops)
+[![Portfolio](https://img.shields.io/badge/View_Projects-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/abdihakim-said)
 
 </td>
 </tr>
