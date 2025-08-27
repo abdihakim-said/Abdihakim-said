@@ -249,74 +249,6 @@ Integration:
 
 ---
 
-<div align="center">
-
-### 🤖 **AI-Powered Monitoring System** - *Intelligent Operations Platform*
-
-[![AI Monitoring](https://github-readme-stats.vercel.app/api/pin/?username=abdihakim-said&repo=ai-monitoring-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF)](https://github.com/abdihakim-said/ai-monitoring-system)
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎯 **AI-Driven Operations**
-**Intelligent monitoring platform** using **machine learning** for **predictive alerting**, **anomaly detection**, and **automated incident response** across multi-cloud environments.
-
-#### 🏗️ **AI Implementation**
-- **ML-based anomaly detection**
-- **Predictive failure analysis**
-- **Automated incident classification**
-- **Smart alerting with context**
-- **Performance trend analysis**
-- **Capacity planning automation**
-
-#### 💼 **Operational Benefits**
-- **Reduced false positives** by 80%
-- **Faster incident detection**
-- **Proactive issue prevention**
-- **Automated root cause analysis**
-- **Intelligent alert routing**
-- **Performance optimization insights**
-
-</td>
-<td width="50%">
-
-#### 🛠️ **AI Technology Stack**
-```yaml
-Machine Learning:
-  - Frameworks: TensorFlow, Scikit-learn
-  - Models: Anomaly detection, classification
-  - Data: Time series analysis
-  - Training: Automated ML pipelines
-
-Integration:
-  - APIs: OpenAI, AWS Bedrock
-  - Monitoring: Prometheus, Grafana
-  - Alerting: PagerDuty, Slack
-  - Data: InfluxDB, Elasticsearch
-
-Automation:
-  - Orchestration: Kubernetes jobs
-  - Scheduling: Cron, Kubernetes CronJobs
-  - Notifications: Multi-channel alerts
-  - Dashboards: Real-time ML insights
-```
-
-#### 📊 **AI Performance**
-- **Accuracy**: 95% anomaly detection
-- **Reduction**: 80% false positives
-- **Speed**: 5x faster incident detection
-- **Automation**: 70% of routine tasks
-- **Prediction**: 90% accuracy for failures
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 **GitHub Analytics**
 
 <div align="center">
@@ -333,38 +265,66 @@ Automation:
 
 ---
 
-## 🌍 **Technical Writing & Community**
+## 🌍 **Blogs & Writing**
 
 <div align="center">
+
+### 📝 **Technical Content & Community Engagement**
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@said-devops)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/said-devops/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdihakim-said)
+
+</div>
 
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"><br>
-<b>📝 Technical Blogs</b><br>
-<sub>SRE Best Practices & Multi-Cloud</sub><br>
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@said-devops)
+
+### 📝 **Technical Writing**
+**Medium Blog**
+- SRE Best Practices
+- Multi-Cloud Architecture
+- DevOps Automation
+- AI/ML Operations
+
+[**Read My Articles →**](https://medium.com/@said-devops)
+
 </td>
 <td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"><br>
-<b>🎤 Tech Talks</b><br>
-<sub>Conference Speaking & Workshops</sub><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/said-devops/)
+
+### 💼 **Professional Network**
+**LinkedIn Content**
+- Industry Insights
+- Technical Tutorials
+- Career Guidance
+- Project Showcases
+
+[**Connect on LinkedIn →**](https://www.linkedin.com/in/said-devops/)
+
 </td>
 <td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"><br>
-<b>🏆 Open Source</b><br>
-<sub>Community Contributions</sub><br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdihakim-said)
+
+### 🏆 **Open Source**
+**GitHub Contributions**
+- Infrastructure Tools
+- Monitoring Solutions
+- Automation Scripts
+- Community Projects
+
+[**View My Code →**](https://github.com/abdihakim-said)
+
 </td>
 </tr>
 </table>
 
-### 📚 **Recent Articles**
-- **"Building Resilient E-commerce: Handling Black Friday Traffic"** - DevOps.com
-- **"Healthcare SRE: Maintaining 99.9% Uptime for Patient Systems"** - SRE Weekly
-- **"AI-Powered Monitoring: Reducing Alert Fatigue by 80%"** - CNCF Blog
-- **"Multi-Cloud Kubernetes: Lessons from Production"** - Kubernetes Blog
+<div align="center">
+
+### 📚 **Recent Articles & Insights**
+- **"Building Resilient E-commerce: CloudMart Architecture"** - Medium
+- **"Healthcare SRE: 99.9% Uptime for Patient Systems"** - LinkedIn
+- **"AI-Powered Monitoring: Reducing Alert Fatigue"** - Medium
+- **"Multi-Cloud Kubernetes: Production Lessons"** - LinkedIn
 
 </div>
 
