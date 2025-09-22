@@ -7,7 +7,7 @@
 </div>
 
 ---
-markdown
+
 ## 🌐 Portfolio & CV
 
 **🚀 Live Portfolio:** [abdihakim-said.github.io/sre-portfolio](https://abdihakim-said.github.io/sre-portfolio/)
