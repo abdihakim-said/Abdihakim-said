@@ -7,6 +7,12 @@
 </div>
 
 ---
+markdown
+## 🌐 Portfolio & CV
+
+**🚀 Live Portfolio:** [abdihakim-said.github.io/sre-portfolio](https://abdihakim-said.github.io/sre-portfolio/)
+
+📄 **Need my CV?** Download it directly from my portfolio - no need to ask!
 
 ## ✨ **About Me**
 
