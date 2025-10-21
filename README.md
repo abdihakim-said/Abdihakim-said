@@ -1,67 +1,125 @@
+<div align="center">
 
-<img width="1436" alt="DevOps" src="https://github.com/user-attachments/assets/f3b341c1-660e-46fd-9f0b-dc1aaa9ace3d" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Abdihakim+Said+%F0%9F%91%8B;Site+reliability+Engineer;DevOps+%26+Multi-Cloud+Specialist;AI-Driven+Infrastructure+Expert;Building+Scalable+Systems+%F0%9F%9A%80;99.9%25+Uptime+%7C+50M%2B+Users+Served" alt="Typing SVG" />
 
-<h1 align="center"> Hi there! I'm a Platform Engineer & SRE with over four years of experience in the healthcare and e-commerce industries, specializing in multi-cloud DevOps and AI technologies.🌐🤖 </h1>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 
-<h3 align="center"> Innovative Platform & SRE Engineer driving efficiency and innovation through Multi-cloud DevOps and AI </h3>
-
-## 🚀 Featured Project
-
-### AWS FinOps Platform - Enterprise Cost Optimization
-[![Terraform](https://img.shields.io/badge/Terraform-1.5+-623CE4?logo=terraform)](https://github.com/Abdihakim-said/aws-finops-platform)
-[![AWS](https://img.shields.io/badge/AWS-Lambda%20%7C%20CloudWatch-FF9900?logo=amazon-aws)](https://github.com/Abdihakim-said/aws-finops-platform)
-[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)](https://github.com/Abdihakim-said/aws-finops-platform)
-[![Stars](https://img.shields.io/github/stars/Abdihakim-said/aws-finops-platform?style=social)](https://github.com/Abdihakim-said/aws-finops-platform)
-
-> **Enterprise-grade platform delivering £18k-42k monthly savings through automated AWS cost optimization**
-
-```
-💰 £18,000-42,000 monthly savings    🏗️ 12 Lambda functions
-⚡ 95% automation                     🚀 <5min anomaly response
-🔧 Production-ready Terraform        📊 Real-time ML detection
-```
-
-**Key Technologies:** Python • Terraform • AWS Lambda • EventBridge • CloudWatch • Machine Learning
-
-[**🔗 View Project**](https://github.com/Abdihakim-said/aws-finops-platform) | [**📖 Documentation**](https://github.com/Abdihakim-said/aws-finops-platform/tree/main/docs) | [**🎯 Challenges**](https://github.com/Abdihakim-said/aws-finops-platform/blob/main/CHALLENGES.md)
+</div>
 
 ---
 
-<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+## 🌐 Portfolio & CV
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdihakim-devops&label=Profile%20views&color=0e75b6&style=flat" alt="abdihakim-devops" /> </p>
+**🚀 Live Portfolio:** [abdihakim-said.github.io/sre-portfolio](https://abdihakim-said.github.io/sre-portfolio/)
 
-- 🔭 🇬🇧 Based in London, UK, I am passionate about building scalable, secure, and efficient systems. My expertise lies in leveraging the power of cloud platforms to optimize performance and reliability.
+**📄 Professional CV:** [Download PDF](https://github.com/abdihakim-said/sre-portfolio/raw/main/Abdihakim%20Said%20-%20Site%20Reliability%20Engineer.pdf)
 
-🔧 I enjoy automating processes, enhancing system reliability, and exploring innovative solutions to complex challenges. Let's connect and collaborate on exciting projects!
+---
 
-- 📝 I regularly write articles on [https://medium.com/@said-devops](https://medium.com/@said-devops)
+## 🚀 About Me
 
-- 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
-- 📫 How to reach me **abdihakimsaid1@gmail.com**
+🔭 **Currently Working On:** Multi-cloud AI healthcare platforms serving 10,000+ daily users
 
-- ⚡ Fun fact **I am a Liverpool Fan**
+🌱 **Learning:** Advanced Kubernetes orchestration, AI/ML infrastructure optimization
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/said-devops/](https://www.linkedin.com/in/said-devops)
+👯 **Looking to Collaborate:** Open-source DevOps tools, cloud-native applications
 
-### Blogs posts
-<a href="https://medium.com/@said-devops" target="_blank">~Abdihakim Said~ On Medium</a> 
+🤔 **Seeking Help With:** Cutting-edge AI infrastructure patterns
 
+💬 **Ask Me About:** AWS, Azure, GCP, Kubernetes, Terraform, Python, DevOps best practices
 
+📫 **Reach Me:** abdihakimsaid1@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+⚡ **Fun Fact:** Liverpool FC supporter ⚽ | Coffee-driven developer ☕
 
-<a href="https://www.linkedin.com/in/said-devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/said-devops" height="30" width="40" /></a>
+---
 
+## 🛠️ Tech Stack
 
-<a href="https://medium.com/@said-devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aman.pathak_51134" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+### 🔧 DevOps & Infrastructure
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
+### 🗄️ Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdihakim-said&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdihakim-said&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdihakim-said&theme=tokyonight" alt="abdihakim-said" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdihakim-said&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Resilient Multi-Cloud Infrastructure](https://medium.com/@said-devops)
+- [Kubernetes Cost Optimization Strategies](https://medium.com/@said-devops)
+- [AI-Driven DevOps: The Future of Infrastructure](https://medium.com/@said-devops)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/said-devops)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@said-devops)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/said_devops)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdihakimsaid1@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdihakim-said&label=Profile%20views&color=0e75b6&style=flat" alt="abdihakim-said" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
