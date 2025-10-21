@@ -8,6 +8,32 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 💰 AWS FinOps Platform - Enterprise Cost Optimization
+[![Terraform](https://img.shields.io/badge/Terraform-1.5+-623CE4?logo=terraform)](https://github.com/Abdihakim-said/aws-finops-platform)
+[![AWS](https://img.shields.io/badge/AWS-Lambda%20%7C%20CloudWatch-FF9900?logo=amazon-aws)](https://github.com/Abdihakim-said/aws-finops-platform)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)](https://github.com/Abdihakim-said/aws-finops-platform)
+
+**£18k-42k monthly savings** • **12 Lambda functions** • **95% automation** • **<5min response**
+
+[**🔗 Repository**](https://github.com/Abdihakim-said/aws-finops-platform) | [**📖 Documentation**](https://github.com/Abdihakim-said/aws-finops-platform/tree/main/docs)
+
+### 🔐 IAM Automation Platform - Enterprise Security
+[![Terraform](https://img.shields.io/badge/Terraform-1.5+-623CE4?logo=terraform)](https://github.com/Abdihakim-said/iam-automation)
+[![AWS](https://img.shields.io/badge/AWS-IAM%20%7C%20Organizations-FF9900?logo=amazon-aws)](https://github.com/Abdihakim-said/iam-automation)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)](https://github.com/Abdihakim-said/iam-automation)
+
+**Zero-trust security** • **Multi-account governance** • **Automated compliance** • **Least-privilege**
+
+[**🔗 Repository**](https://github.com/Abdihakim-said/iam-automation) | [**📖 Documentation**](https://github.com/Abdihakim-said/iam-automation/tree/main/docs)
+
+</div>
+
+---
+
 ## 🌐 Portfolio & CV
 
 **🚀 Live Portfolio:** [abdihakim-said.github.io/sre-portfolio](https://abdihakim-said.github.io/sre-portfolio/)
