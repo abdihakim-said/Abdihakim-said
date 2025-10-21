@@ -1,12 +1,32 @@
 
 <img width="1436" alt="DevOps" src="https://github.com/user-attachments/assets/f3b341c1-660e-46fd-9f0b-dc1aaa9ace3d" />
 
-
-
-
 <h1 align="center"> Hi there! I'm a Platform Engineer & SRE with over four years of experience in the healthcare and e-commerce industries, specializing in multi-cloud DevOps and AI technologies.🌐🤖 </h1>
 
 <h3 align="center"> Innovative Platform & SRE Engineer driving efficiency and innovation through Multi-cloud DevOps and AI </h3>
+
+## 🚀 Featured Project
+
+### AWS FinOps Platform - Enterprise Cost Optimization
+[![Terraform](https://img.shields.io/badge/Terraform-1.5+-623CE4?logo=terraform)](https://github.com/Abdihakim-said/aws-finops-platform)
+[![AWS](https://img.shields.io/badge/AWS-Lambda%20%7C%20CloudWatch-FF9900?logo=amazon-aws)](https://github.com/Abdihakim-said/aws-finops-platform)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)](https://github.com/Abdihakim-said/aws-finops-platform)
+[![Stars](https://img.shields.io/github/stars/Abdihakim-said/aws-finops-platform?style=social)](https://github.com/Abdihakim-said/aws-finops-platform)
+
+> **Enterprise-grade platform delivering £18k-42k monthly savings through automated AWS cost optimization**
+
+```
+💰 £18,000-42,000 monthly savings    🏗️ 12 Lambda functions
+⚡ 95% automation                     🚀 <5min anomaly response
+🔧 Production-ready Terraform        📊 Real-time ML detection
+```
+
+**Key Technologies:** Python • Terraform • AWS Lambda • EventBridge • CloudWatch • Machine Learning
+
+[**🔗 View Project**](https://github.com/Abdihakim-said/aws-finops-platform) | [**📖 Documentation**](https://github.com/Abdihakim-said/aws-finops-platform/tree/main/docs) | [**🎯 Challenges**](https://github.com/Abdihakim-said/aws-finops-platform/blob/main/CHALLENGES.md)
+
+---
+
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdihakim-devops&label=Profile%20views&color=0e75b6&style=flat" alt="abdihakim-devops" /> </p>
@@ -14,7 +34,6 @@
 - 🔭 🇬🇧 Based in London, UK, I am passionate about building scalable, secure, and efficient systems. My expertise lies in leveraging the power of cloud platforms to optimize performance and reliability.
 
 🔧 I enjoy automating processes, enhancing system reliability, and exploring innovative solutions to complex challenges. Let's connect and collaborate on exciting projects!
-
 
 - 📝 I regularly write articles on [https://medium.com/@said-devops](https://medium.com/@said-devops)
 
