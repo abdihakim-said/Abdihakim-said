@@ -30,6 +30,24 @@
 
 [**🔗 Repository**](https://github.com/Abdihakim-said/iam-automation) | [**📖 Documentation**](https://github.com/Abdihakim-said/iam-automation/tree/main/docs)
 
+### 🏥 HealthHub - Multi-Cloud AI Healthcare Platform
+[![AWS](https://img.shields.io/badge/AWS-Multi--Cloud-FF9900?logo=amazon-aws)](https://abdihakim-said.github.io/sre-portfolio/)
+[![Azure](https://img.shields.io/badge/Azure-AI%20Services-0078D4?logo=microsoft-azure)](https://abdihakim-said.github.io/sre-portfolio/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?logo=openai)](https://abdihakim-said.github.io/sre-portfolio/)
+
+**$2.3M annual savings** • **10k+ daily users** • **99.94% uptime** • **HIPAA compliant**
+
+[**🔗 Portfolio Details**](https://abdihakim-said.github.io/sre-portfolio/)
+
+### 🛒 CloudMart - AI-Driven E-Commerce Platform
+[![AWS](https://img.shields.io/badge/AWS-Serverless-FF9900?logo=amazon-aws)](https://abdihakim-said.github.io/sre-portfolio/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-Bedrock-412991?logo=openai)](https://abdihakim-said.github.io/sre-portfolio/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Container-326CE5?logo=kubernetes)](https://abdihakim-said.github.io/sre-portfolio/)
+
+**$2.25M monthly profit** • **500k+ concurrent users** • **99.97% uptime** • **90% automation**
+
+[**🔗 Portfolio Details**](https://abdihakim-said.github.io/sre-portfolio/)
+
 </div>
 
 ---
