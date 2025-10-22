@@ -37,7 +37,7 @@
 
 **$2.3M annual savings** • **10k+ daily users** • **99.94% uptime** • **HIPAA compliant**
 
-[**🔗 Repository**](https://github.com/abdihakim-said/healthhub-enterprise-platform) | [**🚀 Live Demo**](https://abdihakim-said.github.io/sre-portfolio/)
+[**🔗 Repository**](https://github.com/abdihakim-said/healthhub-enterprise-platform) | [**🚀 Live Portfolio**](https://abdihakim-said.github.io)
 
 ### 🛒 CloudMart - AI-Driven E-Commerce Platform
 [![AWS](https://img.shields.io/badge/AWS-Serverless-FF9900?logo=amazon-aws)](https://github.com/abdihakim-said/cloudmart-enterprise-devsecops)
@@ -46,7 +46,7 @@
 
 **$2.25M monthly profit** • **500k+ concurrent users** • **99.97% uptime** • **90% automation**
 
-[**🔗 Repository**](https://github.com/abdihakim-said/cloudmart-enterprise-devsecops) | [**🚀 Live Demo**](https://abdihakim-said.github.io/sre-portfolio/)
+[**🔗 Repository**](https://github.com/abdihakim-said/cloudmart-enterprise-devsecops) | [**🚀 Live Portfolio**](https://abdihakim-said.github.io)
 
 </div>
 
@@ -54,9 +54,9 @@
 
 ## 🌐 Portfolio & CV
 
-**🚀 Live Portfolio:** [abdihakim-said.github.io/sre-portfolio](https://abdihakim-said.github.io/sre-portfolio/)
+**🚀 Professional Portfolio:** [abdihakim-said.github.io](https://abdihakim-said.github.io)
 
-**📄 Professional CV:** [Download PDF](https://github.com/abdihakim-said/sre-portfolio/raw/main/Abdihakim%20Said%20-%20Site%20Reliability%20Engineer.pdf)
+**📄 Download CV:** [PDF Version](https://abdihakim-said.github.io) | **💼 LinkedIn:** [Connect with me](https://linkedin.com/in/said-devops)
 
 ---
 
