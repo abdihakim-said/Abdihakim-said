@@ -19,7 +19,7 @@
 
 **£18k-42k monthly savings** • **12 Lambda functions** • **95% automation** • **<5min response**
 
-[**🔗 Repository**](https://github.com/Abdihakim-said/aws-finops-platform) | [**📖 Documentation**](https://github.com/Abdihakim-said/aws-finops-platform/tree/main/docs)
+[**🔗 Repository**](https://github.com/Abdihakim-said/aws-finops-platform) | [**🚀 Live Portfolio**](https://abdihakim-said.github.io)
 
 ### 🔐 IAM Automation Platform - Enterprise Security
 [![Terraform](https://img.shields.io/badge/Terraform-1.5+-623CE4?logo=terraform)](https://github.com/Abdihakim-said/iam-automation)
@@ -28,7 +28,7 @@
 
 **Zero-trust security** • **Multi-account governance** • **Automated compliance** • **Least-privilege**
 
-[**🔗 Repository**](https://github.com/Abdihakim-said/iam-automation) | [**📖 Documentation**](https://github.com/Abdihakim-said/iam-automation/tree/main/docs)
+[**🔗 Repository**](https://github.com/Abdihakim-said/iam-automation) | [**🚀 Live Portfolio**](https://abdihakim-said.github.io)
 
 ### 🏥 HealthHub - Multi-Cloud AI Healthcare Platform
 [![AWS](https://img.shields.io/badge/AWS-Multi--Cloud-FF9900?logo=amazon-aws)](https://github.com/abdihakim-said/healthhub-enterprise-platform)
