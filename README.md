@@ -22,13 +22,13 @@
 [**🔗 Repository**](https://github.com/Abdihakim-said/aws-finops-platform) | [**🚀 Live Portfolio**](https://abdihakim-said.github.io)
 
 ### 🔐 IAM Automation Platform - Enterprise Security
-[![Terraform](https://img.shields.io/badge/Terraform-1.5+-623CE4?logo=terraform)](https://github.com/Abdihakim-said/iam-automation)
-[![AWS](https://img.shields.io/badge/AWS-IAM%20%7C%20Organizations-FF9900?logo=amazon-aws)](https://github.com/Abdihakim-said/iam-automation)
-[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)](https://github.com/Abdihakim-said/iam-automation)
+[![Terraform](https://img.shields.io/badge/Terraform-1.5+-623CE4?logo=terraform)](https://github.com/abdihakim-said/cloudmart-enterprise-iam-automation)
+[![AWS](https://img.shields.io/badge/AWS-IAM%20%7C%20Organizations-FF9900?logo=amazon-aws)](https://github.com/abdihakim-said/cloudmart-enterprise-iam-automation)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)](https://github.com/abdihakim-said/cloudmart-enterprise-iam-automation)
 
 **Zero-trust security** • **Multi-account governance** • **Automated compliance** • **Least-privilege**
 
-[**🔗 Repository**](https://github.com/Abdihakim-said/iam-automation) | [**🚀 Live Portfolio**](https://abdihakim-said.github.io)
+[**🔗 Repository**](https://github.com/abdihakim-said/cloudmart-enterprise-iam-automation) | [**🚀 Live Portfolio**](https://abdihakim-said.github.io)
 
 ### 🏥 HealthHub - Multi-Cloud AI Healthcare Platform
 [![AWS](https://img.shields.io/badge/AWS-Multi--Cloud-FF9900?logo=amazon-aws)](https://github.com/abdihakim-said/healthhub-enterprise-platform)
