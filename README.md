@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="AWS Certified Solutions Architect" src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img alt="AWS Certified Solutions Architect – Associate" src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
   <img alt="CKA" src="https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
   <img alt="Healthcare" src="https://img.shields.io/badge/6%20years-production%20infra%2C%20mostly%20healthcare-555555?style=flat-square">
 </p>
