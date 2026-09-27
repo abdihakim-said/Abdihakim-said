@@ -112,11 +112,11 @@ Amazon EKS with IRSA and KMS-encrypted secrets, a 7-scanner security gate, WAF/T
 <sub>Refreshed daily by a GitHub Action.</sub>
 
 <!-- RECENT:START -->
-- **[cloudmart-enterprise-devsecops](https://github.com/abdihakim-said/cloudmart-enterprise-devsecops)** · 27 Sep 2026<br><sub>Security honesty pass: remove committed Grafana password and hardcoded compliance claim...</sub>
-- **[healthhub-enterprise-platform](https://github.com/abdihakim-said/healthhub-enterprise-platform)** · 27 Sep 2026<br><sub>Certification: AWS Certified Solutions Architect – Associate</sub>
+- **[cloudmart-enterprise-devsecops](https://github.com/abdihakim-said/cloudmart-enterprise-devsecops)** · 27 Sep 2026<br><sub>AI assistant: remove delete_order, guard cancel_order with ownership and state checks</sub>
+- **[healthhub-enterprise-platform](https://github.com/abdihakim-said/healthhub-enterprise-platform)** · 27 Sep 2026<br><sub>Take roles from the token, not the request body</sub>
+- **[jenkins-enterprise-platform](https://github.com/abdihakim-said/jenkins-enterprise-platform)** · 27 Sep 2026<br><sub>EFS: elastic throughput and scope file-system policy to mount-target client access</sub>
 - **[robot-shop-azure-platform](https://github.com/abdihakim-said/robot-shop-azure-platform)** · 27 Sep 2026<br><sub>Certification: AWS Certified Solutions Architect – Associate</sub>
 - **[aws-finops-platform](https://github.com/abdihakim-said/aws-finops-platform)** · 27 Sep 2026<br><sub>Certification: AWS Certified Solutions Architect – Associate</sub>
-- **[cloudmart-enterprise-iam-automation](https://github.com/abdihakim-said/cloudmart-enterprise-iam-automation)** · 27 Sep 2026<br><sub>Certification: AWS Certified Solutions Architect – Associate</sub>
 <!-- RECENT:END -->
 
 ## 💼 Experience
