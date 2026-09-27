@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1400&color=2C7A8C&center=true&vCenter=true&width=720&lines=AWS+cost+%26+reliability+reviews;Kubernetes+platforms+with+GitOps;DevSecOps+pipelines+that+actually+gate;AI+with+guardrails%3A+LLMs+draft%2C+controls+decide" alt="AWS cost & reliability reviews · Kubernetes platforms with GitOps · DevSecOps pipelines that actually gate · AI with guardrails">
+</p>
+
+<p align="center">
   <a href="https://abdihakim-said.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-abdihakim--said.github.io-1f4f86?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/said-devops/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-said--devops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:abdihakimsaid1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-2c7a8c?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -93,6 +97,18 @@ Amazon EKS with IRSA and KMS-encrypted secrets, a 7-scanner security gate, WAF/T
 </td>
 </tr>
 </table>
+
+## 🔄 Recently updated
+
+<sub>Refreshed daily by a GitHub Action.</sub>
+
+<!-- RECENT:START -->
+- **[cloudmart-enterprise-devsecops](https://github.com/abdihakim-said/cloudmart-enterprise-devsecops)** · 27 Sep 2026<br><sub>Security honesty pass: remove committed Grafana password and hardcoded compliance claim...</sub>
+- **[healthhub-enterprise-platform](https://github.com/abdihakim-said/healthhub-enterprise-platform)** · 27 Sep 2026<br><sub>Certification: AWS Certified Solutions Architect – Associate</sub>
+- **[robot-shop-azure-platform](https://github.com/abdihakim-said/robot-shop-azure-platform)** · 27 Sep 2026<br><sub>Certification: AWS Certified Solutions Architect – Associate</sub>
+- **[aws-finops-platform](https://github.com/abdihakim-said/aws-finops-platform)** · 27 Sep 2026<br><sub>Certification: AWS Certified Solutions Architect – Associate</sub>
+- **[cloudmart-enterprise-iam-automation](https://github.com/abdihakim-said/cloudmart-enterprise-iam-automation)** · 27 Sep 2026<br><sub>Certification: AWS Certified Solutions Architect – Associate</sub>
+<!-- RECENT:END -->
 
 ## 💼 Experience
 
