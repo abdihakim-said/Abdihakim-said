@@ -39,6 +39,15 @@ Where your **LLM spend** goes and how to cut it, what data leaves for which prov
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**🛠️ Implementation Sprint** · *after a review*<br>
+<img alt="£4,950" src="https://img.shields.io/badge/£4%2C950-2%20weeks%20·%20scoped%20from%20your%20report-2c7a8c?style=flat-square"><br>
+The top fixes **built, tested and handed over** through your own pull-request review. AI: a human approval step for risky agent actions, least-privilege keys, LLM budgets, redaction and an audit log. AWS: savings in Terraform, backups restored and tested, alerts on user impact.
+
+</td>
+</tr>
 </table>
 
 → Details and a free 30-minute call: **[abdihakim-said.github.io/#work-with-me](https://abdihakim-said.github.io/#work-with-me)**
