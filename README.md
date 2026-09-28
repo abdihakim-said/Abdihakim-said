@@ -55,56 +55,47 @@ The top fixes **built, tested and handed over** through your own pull-request re
 
 → Details and a free 30-minute call: **[abdihakim-said.github.io/#work-with-me](https://abdihakim-said.github.io/#work-with-me)**
 
-## 🧱 Reference builds
+## 💼 Experience
 
-Built, deployed and debugged in my own cloud accounts, so you can read the code before we talk. Each README covers the architecture, trade-offs, **known limitations** and running cost.
+- **HumanLayer AI Ltd**: Founder & Cloud / AI Infrastructure Consultant (2026–present)
+- **Luul Solutions**: Site Reliability Engineer & Cloud Infrastructure Specialist (2022–present). SLO framework across 15+ services; golden-image Jenkins platform on AWS; GitOps and DevSecOps on Azure AKS; AI integrations with guardrails (Amazon Bedrock, OpenAI, Azure AI)
+- **Moorfields Private Eye Hospital**: Cloud Engineer (2021–2022). **Cut AWS costs by 63%** at 99.95% uptime
+- **Chelsea & Westminster Hospital NHS Foundation Trust**: System Administrator (2020–2021)
+
+## 🧱 Selected platform work
+
+Platforms I have designed and delivered, published in anonymised form with employer and client details removed.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Jenkins on AWS: golden-AMI factory](https://github.com/abdihakim-said/jenkins-enterprise-platform)**<br>
-<img alt="Deployed in dev" src="https://img.shields.io/badge/status-deployed%20in%20dev-2ea44f?style=flat-square"><br>
-Packer golden AMIs with Trivy/Inspector scanning, Terraform (11 modules), EFS-backed disposable controller, security-gated pipeline.
+**[Golden-image CI/CD platform on AWS](https://github.com/abdihakim-said/jenkins-enterprise-platform)**<br>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"> <img alt="Packer" src="https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=packer&logoColor=white"> <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"><br>
+Packer golden AMIs with Trivy and Amazon Inspector scanning, Terraform (11 modules), a disposable EFS-backed controller, and a security-gated pipeline with approval before production.
 
 </td>
 <td width="50%" valign="top">
 
-**[GitOps + DevSecOps on Azure AKS](https://github.com/abdihakim-said/robot-shop-azure-platform)**<br>
-<img alt="Live demo" src="https://img.shields.io/badge/status-live%20demo-2ea44f?style=flat-square"><br>
-Layered Terraform, build-once/promote-by-Git, ArgoCD, Key Vault CSI, Trivy gate + SBOM, SLO alerting. Live at [hakimdevops.art](https://hakimdevops.art).
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[AI-assisted IAM provisioning](https://github.com/abdihakim-said/cloudmart-enterprise-iam-automation)**<br>
-<img alt="Prototype" src="https://img.shields.io/badge/status-prototype-d4a72c?style=flat-square"><br>
-Amazon Bedrock drafts IAM policies; permission boundaries cap the blast radius. *LLMs draft, deterministic controls decide.*
-
-</td>
-<td width="50%" valign="top">
-
-**[HealthHub: serverless multi-cloud AI](https://github.com/abdihakim-said/healthhub-enterprise-platform)**<br>
-<img alt="Prototype" src="https://img.shields.io/badge/status-prototype%20·%20sample%20data-d4a72c?style=flat-square"><br>
-7 Lambda services orchestrating Azure Speech, OpenAI and Google Vision, with Terraform and Serverless Framework.
+**[GitOps & DevSecOps on Azure AKS](https://github.com/abdihakim-said/robot-shop-azure-platform)**<br>
+<img alt="Azure" src="https://img.shields.io/badge/Azure%20AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"> <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"> <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"> <img alt="Trivy" src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white"><br>
+Layered Terraform, build-once images promoted by Git commit, ArgoCD, Key Vault via CSI, a Trivy gate with SBOMs, and SLO alerting. Live demo: [hakimdevops.art](https://hakimdevops.art).
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[CloudMart: multi-cloud AI e-commerce on EKS](https://github.com/abdihakim-said/cloudmart-enterprise-devsecops)**<br>
-<img alt="Portfolio build" src="https://img.shields.io/badge/status-portfolio%20build%20·%20decommissioned-6e7781?style=flat-square"><br>
-Amazon EKS with IRSA and KMS-encrypted secrets, a 7-scanner security gate, WAF/TLS, and OpenAI, Bedrock and Azure AI. Built on the Multicloud DevOps & AI Challenge.
+**[AI-assisted IAM with guardrails](https://github.com/abdihakim-said/cloudmart-enterprise-iam-automation)**<br>
+<img alt="Amazon Bedrock" src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="IAM" src="https://img.shields.io/badge/IAM-least%20privilege-DD344C?style=flat-square"><br>
+Amazon Bedrock drafts least-privilege IAM policies from plain-English requests; permission boundaries and deterministic checks decide what is granted. *LLMs draft, controls decide.*
 
 </td>
 <td width="50%" valign="top">
 
-**More on GitHub**<br>
-<img alt="Experiment" src="https://img.shields.io/badge/status-experiment-6e7781?style=flat-square"><br>
-[AWS FinOps automation](https://github.com/abdihakim-said/aws-finops-platform): scheduled Lambdas that find waste, with destructive actions dry-run by default and a CI test that proves it.
+**[Serverless multi-cloud AI integration](https://github.com/abdihakim-said/healthhub-enterprise-platform)**<br>
+<img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"> <img alt="Azure AI" src="https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"> <img alt="Google Vision" src="https://img.shields.io/badge/Google%20Vision-4285F4?style=flat-square&logo=googlecloud&logoColor=white"><br>
+Lambda services orchestrating Azure AI Speech, OpenAI and Google Vision, with Cognito authentication on every API route and Terraform-managed infrastructure.
 
 </td>
 </tr>
@@ -121,13 +112,6 @@ Amazon EKS with IRSA and KMS-encrypted secrets, a 7-scanner security gate, WAF/T
 - **[robot-shop-azure-platform](https://github.com/abdihakim-said/robot-shop-azure-platform)** · 27 Sep 2026<br><sub>Certification: AWS Certified Solutions Architect – Associate</sub>
 - **[aws-finops-platform](https://github.com/abdihakim-said/aws-finops-platform)** · 27 Sep 2026<br><sub>Certification: AWS Certified Solutions Architect – Associate</sub>
 <!-- RECENT:END -->
-
-## 💼 Experience
-
-- **HumanLayer AI Ltd**: Founder & Cloud / AI Infrastructure Consultant (2026–present)
-- **Luul Solutions**: Site Reliability Engineer & Cloud Infrastructure Specialist (2022–present). SLO framework across 15+ services, Terraform, Kubernetes
-- **Moorfields Private Eye Hospital**: Cloud Engineer (2021–2022). **Cut AWS costs by 63%** at 99.95% uptime
-- **Chelsea & Westminster Hospital NHS Foundation Trust**: System Administrator (2020–2021)
 
 ## 🛠️ Tools I use
 
