@@ -79,7 +79,7 @@ Packer golden AMIs with Trivy and Amazon Inspector scanning, Terraform (11 modul
 
 **[GitOps & DevSecOps on Azure AKS](https://github.com/abdihakim-said/robot-shop-azure-platform)**<br>
 <img alt="Azure" src="https://img.shields.io/badge/Azure%20AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"> <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"> <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"> <img alt="Trivy" src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white"><br>
-Layered Terraform, build-once images promoted by Git commit, ArgoCD, Key Vault via CSI, a Trivy gate with SBOMs, and SLO alerting. Live demo: [hakimdevops.art](https://hakimdevops.art).
+Layered Terraform, build-once images promoted by Git commit, ArgoCD, Key Vault via CSI, a Trivy gate with SBOMs, and SLO alerting.
 
 </td>
 </tr>
