@@ -88,14 +88,23 @@ Layered Terraform, build-once images promoted by Git commit, ArgoCD, Key Vault v
 
 **[AI-assisted IAM with guardrails](https://github.com/abdihakim-said/cloudmart-enterprise-iam-automation)**<br>
 <img alt="Amazon Bedrock" src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="IAM" src="https://img.shields.io/badge/IAM-least%20privilege-DD344C?style=flat-square"><br>
-Amazon Bedrock drafts least-privilege IAM policies from plain-English requests; permission boundaries and deterministic checks decide what is granted. *LLMs draft, controls decide.*
+Amazon Bedrock drafts least-privilege IAM policies from plain-English requests; permission boundaries cap what any generated policy can grant, with MFA enforced.
 
 </td>
 <td width="50%" valign="top">
 
 **[Serverless multi-cloud AI integration](https://github.com/abdihakim-said/healthhub-enterprise-platform)**<br>
 <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"> <img alt="Azure AI" src="https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"> <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"> <img alt="Google Vision" src="https://img.shields.io/badge/Google%20Vision-4285F4?style=flat-square&logo=googlecloud&logoColor=white"><br>
-Lambda services orchestrating Azure AI Speech, OpenAI and Google Vision, with Cognito authentication on every API route and Terraform-managed infrastructure.
+Lambda services orchestrating Azure AI Speech, OpenAI and Google Vision, with Cognito JWT authentication on the API and Terraform-managed infrastructure.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[LLM guardrails gateway](https://github.com/abdihakim-said/llm-guardrails-gateway)** · open source<br>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="Claude" src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white"> <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"><br>
+Deterministic controls for LLM apps and AI agents: per-team budgets enforced before each call, cost per call, redaction of personal data, tool allow-lists, human approval for risky actions, and a tamper-evident audit log. *LLMs can ask; code decides.*
 
 </td>
 </tr>
