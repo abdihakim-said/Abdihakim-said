@@ -100,7 +100,14 @@ Lambda services orchestrating Azure AI Speech, OpenAI and Google Vision, with Co
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+**[AWS FinOps: plan, approve, apply](https://github.com/abdihakim-said/aws-finops-platform)** · open source<br>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"><br>
+Finds AWS waste and writes a plan; nothing changes until a named person approves it, and every action is re-checked first. gp2→gp3 with IOPS parity, safe snapshot clean-up, Compute Optimizer rightsizing.
+
+</td>
+<td width="50%" valign="top">
 
 **[LLM guardrails gateway](https://github.com/abdihakim-said/llm-guardrails-gateway)** · open source<br>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="Claude" src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white"> <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white"><br>
