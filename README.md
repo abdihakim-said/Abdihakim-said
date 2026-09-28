@@ -10,6 +10,7 @@
   <a href="https://abdihakim-said.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-abdihakim--said.github.io-1f4f86?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/said-devops/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-said--devops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:abdihakimsaid1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-2c7a8c?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://abdihakim-said.github.io/Abdihakim-Said-CV.pdf"><img alt="CV (PDF)" src="https://img.shields.io/badge/CV-PDF-444444?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -19,6 +20,8 @@
 </p>
 
 I help teams run **secure, reliable and cost-efficient platforms on AWS and Azure**: Terraform, Kubernetes and GitOps, DevSecOps pipelines, SRE practice, and adopting AI in operations *safely*.
+
+**Open to:** fixed-price reviews and sprints (below) · Platform, DevOps and AI-infrastructure contracts through HumanLayer AI Ltd · London or remote
 
 ## 🤝 Work with me
 
