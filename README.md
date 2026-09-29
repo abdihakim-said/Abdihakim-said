@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://abdihakim-said.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-abdihakim--said.github.io-1f4f86?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://humanlayer.uk"><img alt="Website" src="https://img.shields.io/badge/Website-humanlayer.uk-0B0B0C?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/said-devops/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-said--devops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:abdihakimsaid1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-2c7a8c?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://abdihakim-said.github.io/Abdihakim-Said-CV.pdf"><img alt="CV (PDF)" src="https://img.shields.io/badge/CV-PDF-444444?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+  <a href="https://humanlayer.uk/Abdihakim-Said-CV.pdf"><img alt="CV (PDF)" src="https://img.shields.io/badge/CV-PDF-444444?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ The top fixes **built, tested and handed over** through your own pull-request re
 </tr>
 </table>
 
-→ Details and a free 30-minute call: **[abdihakim-said.github.io/#work-with-me](https://abdihakim-said.github.io/#work-with-me)**
+→ Details and a free 30-minute call: **[humanlayer.uk/#work-with-me](https://humanlayer.uk/#work-with-me)**
 
 ## 💼 Experience
 
