@@ -122,11 +122,11 @@ Deterministic controls for LLM apps and AI agents: per-team budgets enforced bef
 <sub>Refreshed daily by a GitHub Action.</sub>
 
 <!-- RECENT:START -->
-- **[cloudmart-enterprise-devsecops](https://github.com/abdihakim-said/cloudmart-enterprise-devsecops)** · 27 Sep 2026<br><sub>AI assistant: remove delete_order, guard cancel_order with ownership and state checks</sub>
-- **[healthhub-enterprise-platform](https://github.com/abdihakim-said/healthhub-enterprise-platform)** · 27 Sep 2026<br><sub>Take roles from the token, not the request body</sub>
-- **[jenkins-enterprise-platform](https://github.com/abdihakim-said/jenkins-enterprise-platform)** · 27 Sep 2026<br><sub>EFS: elastic throughput and scope file-system policy to mount-target client access</sub>
-- **[robot-shop-azure-platform](https://github.com/abdihakim-said/robot-shop-azure-platform)** · 27 Sep 2026<br><sub>Certification: AWS Certified Solutions Architect – Associate</sub>
-- **[aws-finops-platform](https://github.com/abdihakim-said/aws-finops-platform)** · 27 Sep 2026<br><sub>Certification: AWS Certified Solutions Architect – Associate</sub>
+- **[healthhub-enterprise-platform](https://github.com/abdihakim-said/healthhub-enterprise-platform)** · 28 Sep 2026<br><sub>CI: keyless unit tests, deploys behind DEPLOY_ENABLED; document Checkov gate</sub>
+- **[robot-shop-azure-platform](https://github.com/abdihakim-said/robot-shop-azure-platform)** · 28 Sep 2026<br><sub>CI: keyless unit tests, deploys behind DEPLOY_ENABLED; document Checkov gate</sub>
+- **[jenkins-enterprise-platform](https://github.com/abdihakim-said/jenkins-enterprise-platform)** · 28 Sep 2026<br><sub>CI: credential-free validate workflow; fix issues it found</sub>
+- **[llm-guardrails-gateway](https://github.com/abdihakim-said/llm-guardrails-gateway)** · 28 Sep 2026<br><sub>README: animated architecture walkthrough and diagram</sub>
+- **[aws-finops-platform](https://github.com/abdihakim-said/aws-finops-platform)** · 28 Sep 2026<br><sub>README: animated architecture walkthrough and diagram</sub>
 <!-- RECENT:END -->
 
 ## 🛠️ Tools I use
