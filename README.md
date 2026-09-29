@@ -58,7 +58,7 @@ The top fixes **built, tested and handed over** through your own pull-request re
 ## 💼 Experience
 
 - **HumanLayer AI Ltd**: Founder & Cloud / AI Infrastructure Consultant (2026–present)
-- **Luul Solutions**: Site Reliability Engineer & Cloud Infrastructure Specialist (2022–present). SLO framework across 15+ services; golden-image Jenkins platform on AWS; GitOps and DevSecOps on Azure AKS; AI integrations with guardrails (Amazon Bedrock, OpenAI, Azure AI)
+- **Luul Solutions**: Site Reliability Engineer & Cloud AI Integration Specialist (2022–present). SLO framework across 15+ services; golden-image Jenkins platform on AWS; GitOps and DevSecOps on Azure AKS; AI integrations with guardrails (Amazon Bedrock, OpenAI, Azure AI)
 - **Moorfields Private Eye Hospital**: Cloud Engineer (2021–2022). **Cut AWS costs by 63%** at 99.95% uptime
 - **Chelsea & Westminster Hospital NHS Foundation Trust**: System Administrator (2020–2021)
 
