@@ -145,10 +145,10 @@ Deterministic controls for LLM apps and AI agents: per-team budgets enforced bef
 <sub>Refreshed daily by a GitHub Action.</sub>
 
 <!-- RECENT:START -->
-- **[uk-banking-agent-platform](https://github.com/abdihakim-said/uk-banking-agent-platform)** · 13 Oct 2026<br><sub>docs: update wording for a public repository</sub>
-- **[luul-trunk-lab](https://github.com/abdihakim-said/luul-trunk-lab)** · 13 Oct 2026<br><sub>docs: reference-style README, move study material out of the repo (#8)</sub>
+- **[trunk-based-cicd-reference](https://github.com/abdihakim-said/trunk-based-cicd-reference)** · 14 Oct 2026<br><sub>chore: neutral naming after repository rename (#9)</sub>
+- **[uk-banking-agent-platform](https://github.com/abdihakim-said/uk-banking-agent-platform)** · 14 Oct 2026<br><sub>chore(deploy): promote sha-2a7f92f to dev</sub>
+- **[llm-pilot-to-production](https://github.com/abdihakim-said/llm-pilot-to-production)** · 14 Oct 2026<br><sub>docs: architecture diagram</sub>
 - **[robot-shop-azure-platform](https://github.com/abdihakim-said/robot-shop-azure-platform)** · 13 Oct 2026<br><sub>CI: keyless unit tests, deploys behind DEPLOY_ENABLED; document Checkov gate</sub>
-- **[llm-pilot-to-production](https://github.com/abdihakim-said/llm-pilot-to-production)** · 07 Oct 2026<br><sub>release(mlflow): r3 e51099eff36fd5b0eb0aa165b31fe8833a623952</sub>
 - **[healthhub-enterprise-platform](https://github.com/abdihakim-said/healthhub-enterprise-platform)** · 28 Sep 2026<br><sub>CI: keyless unit tests, deploys behind DEPLOY_ENABLED; document Checkov gate</sub>
 <!-- RECENT:END -->
 
