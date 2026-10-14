@@ -71,7 +71,7 @@ Built by HumanLayer AI Ltd to show how an LLM gets from pilot to production safe
 <td width="50%" valign="top">
 
 **[LLM pilot to production on GKE](https://github.com/abdihakim-said/llm-pilot-to-production)**<br>
-<img alt="GKE" src="https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white"> <img alt="vLLM" src="https://img.shields.io/badge/vLLM%20%2B%20KServe-30A2FF?style=flat-square"> <img alt="Argo" src="https://img.shields.io/badge/Argo%20CD%20%2B%20Rollouts-EF7B4D?style=flat-square&logo=argo&logoColor=white"> <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"><br>
+<img alt="GKE" src="https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white"> <img alt="vLLM" src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square"> <img alt="Argo" src="https://img.shields.io/badge/Argo%20CD%20%2B%20Rollouts-EF7B4D?style=flat-square&logo=argo&logoColor=white"> <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"><br>
 A UK bank's GenAI assistant stuck in pilot, taken to production: private GKE in London, self-hosted model serving with RAG and PII redaction, MLflow traces and Grafana dashboards, and **canary releases that only promote when the evaluation suite passes**.
 
 </td>
