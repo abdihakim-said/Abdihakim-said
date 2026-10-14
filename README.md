@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://humanlayer.uk"><img alt="Website" src="https://img.shields.io/badge/Website-humanlayer.uk-0B0B0C?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/said-devops/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-said--devops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:abdihakimsaid1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-2c7a8c?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:abdihakim@humanlayer.uk"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-2c7a8c?style=for-the-badge&logo=maildotru&logoColor=white"></a>
   <a href="https://humanlayer.uk/Abdihakim-Said-CV.pdf"><img alt="CV (PDF)" src="https://img.shields.io/badge/CV-PDF-444444?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
 </p>
 
@@ -61,6 +61,29 @@ The top fixes **built, tested and handed over** through your own pull-request re
 - **Luul Solutions**: Site Reliability Engineer & Cloud AI Integration Specialist (2022–present). SLO framework across 15+ services; golden-image Jenkins platform on AWS; GitOps and DevSecOps on Azure AKS; AI integrations with guardrails (Amazon Bedrock, OpenAI, Azure AI)
 - **Moorfields Private Eye Hospital**: Cloud Engineer (2021–2022). **Cut AWS costs by 63%** at 99.95% uptime
 - **Chelsea & Westminster Hospital NHS Foundation Trust**: System Administrator (2020–2021)
+
+## 🤖 AI infrastructure reference builds
+
+Built by HumanLayer AI Ltd to show how an LLM gets from pilot to production safely. Synthetic data, measured results.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[LLM pilot to production on GKE](https://github.com/abdihakim-said/llm-pilot-to-production)**<br>
+<img alt="GKE" src="https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white"> <img alt="vLLM" src="https://img.shields.io/badge/vLLM%20%2B%20KServe-30A2FF?style=flat-square"> <img alt="Argo" src="https://img.shields.io/badge/Argo%20CD%20%2B%20Rollouts-EF7B4D?style=flat-square&logo=argo&logoColor=white"> <img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"><br>
+A UK bank's GenAI assistant stuck in pilot, taken to production: private GKE in London, self-hosted model serving with RAG and PII redaction, MLflow traces and Grafana dashboards, and **canary releases that only promote when the evaluation suite passes**.
+
+</td>
+<td width="50%" valign="top">
+
+**[Multi-agent banking assistant](https://github.com/abdihakim-said/uk-banking-agent-platform)**<br>
+<img alt="Claude" src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white"> <img alt="MCP" src="https://img.shields.io/badge/MCP-tool%20servers-555555?style=flat-square"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"><br>
+Customer PII is redacted before any model sees it, agents reach backend systems only through MCP tool servers, and **the model can propose an action but the customer must confirm it**. Cost and trace on every turn, an evaluation suite in CI, and model fallback when a provider fails.
+
+</td>
+</tr>
+</table>
 
 ## 🧱 Selected platform work
 
