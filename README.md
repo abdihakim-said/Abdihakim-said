@@ -145,11 +145,11 @@ Deterministic controls for LLM apps and AI agents: per-team budgets enforced bef
 <sub>Refreshed daily by a GitHub Action.</sub>
 
 <!-- RECENT:START -->
-- **[trunk-based-cicd-reference](https://github.com/abdihakim-said/trunk-based-cicd-reference)** · 14 Oct 2026<br><sub>chore: neutral naming after repository rename (#9)</sub>
-- **[uk-banking-agent-platform](https://github.com/abdihakim-said/uk-banking-agent-platform)** · 14 Oct 2026<br><sub>chore(deploy): promote sha-2a7f92f to dev</sub>
-- **[llm-pilot-to-production](https://github.com/abdihakim-said/llm-pilot-to-production)** · 14 Oct 2026<br><sub>docs: architecture diagram</sub>
-- **[robot-shop-azure-platform](https://github.com/abdihakim-said/robot-shop-azure-platform)** · 13 Oct 2026<br><sub>CI: keyless unit tests, deploys behind DEPLOY_ENABLED; document Checkov gate</sub>
-- **[healthhub-enterprise-platform](https://github.com/abdihakim-said/healthhub-enterprise-platform)** · 28 Sep 2026<br><sub>CI: keyless unit tests, deploys behind DEPLOY_ENABLED; document Checkov gate</sub>
+- **[EKS-Terraform-GitHub-Actions](https://github.com/abdihakim-said/EKS-Terraform-GitHub-Actions)** · 15 Oct 2026<br><sub>Rewrite README and tidy repo to the standard of the flagship repos</sub>
+- **[robot-shop-azure-platform](https://github.com/abdihakim-said/robot-shop-azure-platform)** · 15 Oct 2026<br><sub>chore: use the company contact address</sub>
+- **[cloudmart-enterprise-devsecops](https://github.com/abdihakim-said/cloudmart-enterprise-devsecops)** · 14 Oct 2026<br><sub>chore: use the company contact address</sub>
+- **[healthhub-enterprise-platform](https://github.com/abdihakim-said/healthhub-enterprise-platform)** · 14 Oct 2026<br><sub>chore: replace decommissioned AWS endpoint and Cognito IDs with placeholders</sub>
+- **[uk-banking-agent-platform](https://github.com/abdihakim-said/uk-banking-agent-platform)** · 14 Oct 2026<br><sub>chore(deploy): promote sha-7ba3d1b to dev</sub>
 <!-- RECENT:END -->
 
 ## 🛠️ Tools I use
