@@ -145,11 +145,11 @@ Deterministic controls for LLM apps and AI agents: per-team budgets enforced bef
 <sub>Refreshed daily by a GitHub Action.</sub>
 
 <!-- RECENT:START -->
-- **[EKS-Terraform-GitHub-Actions](https://github.com/abdihakim-said/EKS-Terraform-GitHub-Actions)** · 15 Oct 2026<br><sub>Rewrite README and tidy repo to the standard of the flagship repos</sub>
-- **[robot-shop-azure-platform](https://github.com/abdihakim-said/robot-shop-azure-platform)** · 15 Oct 2026<br><sub>chore: use the company contact address</sub>
+- **[robot-shop-azure-platform](https://github.com/abdihakim-said/robot-shop-azure-platform)** · 15 Oct 2026<br><sub>Docs: October CI work in the README, Azure DevOps guide and engineering notes (#12)</sub>
 - **[cloudmart-enterprise-devsecops](https://github.com/abdihakim-said/cloudmart-enterprise-devsecops)** · 14 Oct 2026<br><sub>chore: use the company contact address</sub>
 - **[healthhub-enterprise-platform](https://github.com/abdihakim-said/healthhub-enterprise-platform)** · 14 Oct 2026<br><sub>chore: replace decommissioned AWS endpoint and Cognito IDs with placeholders</sub>
 - **[uk-banking-agent-platform](https://github.com/abdihakim-said/uk-banking-agent-platform)** · 14 Oct 2026<br><sub>chore(deploy): promote sha-7ba3d1b to dev</sub>
+- **[llm-pilot-to-production](https://github.com/abdihakim-said/llm-pilot-to-production)** · 14 Oct 2026<br><sub>release(evaluator): r4 f9835a82d4b315f06d8b7c653bb37339ee36603a</sub>
 <!-- RECENT:END -->
 
 ## 🛠️ Tools I use
